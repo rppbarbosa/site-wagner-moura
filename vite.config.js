@@ -5,7 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/site-wagner-moura/',
-  server: {
-    port: 5174,
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
   },
 })
