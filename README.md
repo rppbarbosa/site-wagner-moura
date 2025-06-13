@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wagner Moura Advogados Associados - Website
 
 Site institucional do escritório Wagner Moura Advogados Associados, desenvolvido com React e Vite.
@@ -61,3 +62,6 @@ Este projeto está sob a licença privada do escritório Wagner Moura Advogados 
 Wagner Moura Advogados Associados
 - WhatsApp: (44) 99960-3808
 - Email: contato@wagnermouraadvogados.com.br
+=======
+# site-wagner-moura
+>>>>>>> f969cc94208b3b3136270e51e4483dc478b1d4cb
